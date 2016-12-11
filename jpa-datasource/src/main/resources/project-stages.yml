@@ -1,0 +1,8 @@
+swarm:
+  datasources:
+    data-sources:
+      MySqlDs:
+        driver-name: mysql
+        connection-url: jdbc:mysql://localhost:3306/practice?useUnicode=true&characterEncoding=utf-8&characterSetResults=utf-8&useServerPrepStmts=true&useLocalSessionState=true&elideSetAutoCommits=true&alwaysSendSetIsolation=false&useSSL=false
+        user-name: kazuhira
+        password: password
