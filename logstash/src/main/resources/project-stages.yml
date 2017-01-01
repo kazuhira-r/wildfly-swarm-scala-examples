@@ -1,0 +1,5 @@
+swarm:
+    logging: INFO
+    logstash:
+        hostname: localhost
+        port: 9300
