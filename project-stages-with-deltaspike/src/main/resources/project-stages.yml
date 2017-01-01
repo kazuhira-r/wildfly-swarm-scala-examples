@@ -1,0 +1,9 @@
+swarm:
+    http:
+        port: 8080
+---
+project:
+    stage: development
+swarm:
+    http:
+        port: 18080
